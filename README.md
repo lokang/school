@@ -5,4 +5,4 @@ www.kirwang.lokang.com
 
 
 ## Download
-www.kirwang.lokang.com/kirwang.zip/
+www.kirwang.lokang.com/kirwang.zip
